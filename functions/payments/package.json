@@ -1,0 +1,17 @@
+{
+  "name": "payments-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.18.4"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^2.1.0"
+  }
+}
